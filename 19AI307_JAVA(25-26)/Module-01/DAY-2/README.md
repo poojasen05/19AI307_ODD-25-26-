@@ -44,8 +44,8 @@ To write a Java program that uses conditional statements to determine the state 
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Soundarya J
-RegisterNumber: 212223220108
+Developed by:  POOJA S
+RegisterNumber: 212223040146
 */
 ```
 
@@ -80,6 +80,7 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
 
 
 
